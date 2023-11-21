@@ -1,4 +1,4 @@
 package org.iesalandalus.programacion.robot.modelo;
 
-public record Cordenada(int x, int y) {
+public record Coordenada(int x, int y) {
 }
